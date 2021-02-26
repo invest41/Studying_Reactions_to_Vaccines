@@ -7,3 +7,7 @@ This Notebook contains scrupulous data analytics which involves:
 - Using proper computational algorithms and visualizations to derive insights from real-world Data ( i.e. Who is more likely to develop adverse reactions to vaccination )
 - Involves an interactive session where we apply our Machine Learning Model to answer tough questions ( i.e. Given a case note report of individual patient bio-data and clinical history, we'd use our model to predict those who are likely to survive adverse reactions to COVID19 vaccination? )
 - Key graphs on survivor demographics are in place
+
+
+> ## Datasets Used in this repository
+> The datasets used in this repository comes from the following source - https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions under a CC0: Public Domain license (https://creativecommons.org/publicdomain/zero/1.0/)
