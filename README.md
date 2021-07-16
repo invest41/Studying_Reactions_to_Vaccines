@@ -1,7 +1,7 @@
 # Snippet
 ![Distribution 1](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9332.jpeg)
 ![Distribution 2](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9333.jpeg)
-## Predicting Risk of Death analysed Patient Data
+## Predicting Risk of Death from analysed Patient Data
 ![Model](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9334.jpeg)
 
 # Studying_Reactions_To_VACCINES
