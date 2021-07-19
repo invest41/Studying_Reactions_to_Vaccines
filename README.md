@@ -1,10 +1,18 @@
-# Snippet
+## Snippet
 ![Distribution 1](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9332.jpeg)
 ![Distribution 2](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9333.jpeg)
+![Distribution 3](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9359.jpeg)
+![Distribution 4](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9362.jpeg)
+![Distribution 5](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9361.jpeg)
+![Distribution 6](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9360.jpeg)
+
+
+
+
 ## Predicting Risk of Death from analysed Patient Data
 ![Model](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9334.jpeg)
 
-# Studying_Reactions_To_VACCINES
+## Studying_Reactions_To_VACCINES
 **An Exploratory Data Analysis and Machine Learning model**
 
 This Notebook contains scrupulous data analytics which involves:
