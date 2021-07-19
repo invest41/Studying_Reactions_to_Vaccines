@@ -4,7 +4,6 @@
 ![Distribution 3](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9359.jpeg)
 ![Distribution 4](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9362.jpeg)
 ![Distribution 5](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9361.jpeg)
-![Distribution 6](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9360.jpeg)
 
 
 
