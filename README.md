@@ -1,5 +1,11 @@
 ## Snippet
-![Distribution 1](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9332.jpeg)
+[<img height="450" src="https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9332.jpeg" />](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9332.jpeg)
+[<img height="450" src="https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9333.jpeg" />](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9333.jpeg)
+[<img height="450" src="https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9359.jpeg" />](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9359.jpeg)
+[<img height="450" src="https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9362.jpeg" />](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9362.jpeg)
+[<img height="450" src="https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9361.jpeg" />](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9361.jpeg)
+
+<!-- Legacy
 ![Distribution 2](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9333.jpeg)
 <br/>
 ![Distribution 3](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9359.jpeg)
@@ -7,7 +13,7 @@
 ![Distribution 4](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9362.jpeg)
 <br/> <br/>
 ![Distribution 5](https://github.com/invest41/Studying_Reactions_to_Vaccines/blob/main/IMG_9361.jpeg)
-
+-->
 
 
 
